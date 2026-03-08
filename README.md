@@ -2,7 +2,7 @@
 
 **Front-End Developer | React & JavaScript | Bridging Healthcare and Tech**
 
-I am a Cape Town-based Software Developer transitioning from a clinical nursing background. After working on the hospital floor and dealing with clunky medical software, I decided to learn how to build better digital infrastructure myself. Today, I specialize in building responsive, user-focused web applications. 
+I am a Cape Town-based Software Developer transitioning from a clinical nursing background. After working on the hospital floor and dealing with clunky medical software, I decided to learn how to build better digital infrastructure myself. Today, I specialise in building responsive, user-focused web applications. 
 
 ### 🚀 What I'm up to right now:
 - 🔭 **Building:** Custom web applications focused on UI/UX, responsive design, and dynamic state management.
@@ -33,7 +33,7 @@ An AI-powered healthcare study tool.
 - **Email:** phaphamanizoneleni@gmail.com
 - **Portfolio:** https://phaphamaniportfolio.netlify.app/
 
-⚡ *Fun fact: I treat debugging a codebase the exact same way I used to triage on the hospital floor—assess the environment, break down the problem from first principles, and intervene with precision.*
+⚡ *Fun fact: I treat debugging a codebase the same way I used to triage on the hospital floor by assessing the environment, breaking down the problem from first principles, and intervening with precision.*
 
 <!--
 **Wallflower65/Wallflower65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
