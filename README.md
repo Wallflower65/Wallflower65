@@ -1,51 +1,29 @@
-# Hi there, I'm Phaphamani (Phaphs) Zoneleni 👋
+# 👋 Hello, I'm Phaphamani 
 
-**Front-End Developer | React & JavaScript | Bridging Healthcare and Tech**
+### Bridging the gap between frontline healthcare and backend data architecture. 🚀
 
-I am a Cape Town-based Software Developer transitioning from a clinical nursing background. After working on the hospital floor and dealing with clunky medical software, I decided to learn how to build better digital infrastructure myself. Today, I specialise in building responsive, user-focused web applications. 
+I am a Full-Stack Software & Data Engineer based in Cape Town, South Africa. As a Women Techsters Fellow in the Data Science & Engineering track and an alum of the SheCodes Foundation, I am passionate about building intelligent, data-driven applications. 
 
-### 🚀 What I'm up to right now:
-- 🔭 **Building:** Custom web applications focused on UI/UX, responsive design, and dynamic state management.
-- 🌱 **Learning:** Deepening my knowledge in Next.js, TypeScript, and full-stack architecture.
-- 💡 **Superpower:** Translating complex, real-world rules (like clinical triage) into clean, functional code.
+I have a background in nursing, which is my superpower in understanding complex human problems—like clinical workflows and healthcare accessibility—and translating them into robust, user-friendly technical solutions. 
 
+### 💡 What I'm currently up to:
+- 🔭 **Building:** Predictive machine learning models and state-managed React applications.
+- 🌱 **Learning & Growing:** Actively participating as a mentee in the UWC IT Society mentorship program while completing my final nursing module.
+- 🎯 **Looking for:** Remote or Cape Town-based roles in Software Development, Data Science, or AI Engineering.
 
-### 💻 Tech Stack
-- **Front-End:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
-- **Back-End & Data:** Python, SQL, MySQL, Node.js, REST APIs
-- **Tools & Cloud:** Git/GitHub, Microsoft Azure, CI/CD pipelines, Agile workflows
+### 🛠️ My Technical Toolkit:
+- **Core:** Python, Pandas, Plotly, Matplotlib, Scikit-Learn (ML)
+- **Frontend:** JavaScript (ES6+), React.js, HTML5, CSS3, Tailwind CSS, Bootstrap
+- **Backend & Data:** REST APIs, SQLite / SQL, Power BI
+- **Tools:** Git, GitHub, Netlify, VS Code, Streamlit
 
-
-### 🏆 Featured Projects
-
-🏥 **Mzansi Med-Ward**
-A custom Electronic Health Record (EHR) prototype built with React and Tailwind CSS. 
-* Engineered dynamic JavaScript algorithms to automatically calculate patient triage scores (TEWS/EWS).
-* Implemented simulated role-based access control (RBAC) to manage different UI states for doctors and nurses.
-
-🧠 **Nursing Mnemonic Maker**
-An AI-powered healthcare study tool. 
-* Integrated and consumed external REST APIs.
-* Handled asynchronous operations and securely parsed JSON payloads for the end-user.
+### 🚀 Featured Work:
+- 🏥 **[ER Clinic AI Optimizer](https://clinic-optimser--visualiser-byrpmf3uemuyhmyri2yslf.streamlit.app/):** A Random Forest ML model predicting patient wait times with 1.17-minute accuracy.
+- 🩺 **[Mzansi Med-Ward EHR](https://mzansi-med-ward.netlify.app/):** A responsive React prototype for electronic health records, tackling administrative burnout.
+- 🗺️ **[Commuter Route Engine](https://hamba-cape-town.netlify.app/):** An interactive mapping engine using Nominatim and OSRM REST APIs.
+- 🌍 **[Air Quality Dashboard](https://cape-town-air-quality-dashboard-s8yyjmgsdcbh6pajyaxnzd.streamlit.app/):** A dynamic ETL pipeline visualizing global environmental health data.
 
 ### 📫 Let's Connect!
-- **LinkedIn:** https://www.linkedin.com/in/phaphamanizoneleni-28181a20b 
+- **Portfolio:** [Visit my live portfolio](https://phaphamaniportfolio.netlify.app/)
+- **LinkedIn:** [Let's connect on LinkedIn](https://www.linkedin.com/in/phaphamani-zoneleni-28181a20b)
 - **Email:** phaphamanizoneleni@gmail.com
-- **Portfolio:** https://phaphamaniportfolio.netlify.app/
-
-⚡ *Fun fact: I treat debugging a codebase the same way I used to triage on the hospital floor by assessing the environment, breaking down the problem from first principles, and intervening with precision.*
-
-<!--
-**Wallflower65/Wallflower65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
