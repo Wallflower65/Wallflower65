@@ -4,7 +4,7 @@
 
 I am a Full-Stack Software & Data Engineer based in Cape Town, South Africa. As a Women Techsters Fellow in the Data Science & Engineering track and an alum of the SheCodes Foundation, I am passionate about building intelligent, data-driven applications. 
 
-I have a background in nursing, which is my superpower in understanding complex human problems—like clinical workflows and healthcare accessibility—and translating them into robust, user-friendly technical solutions. 
+I have a background in nursing, which is my superpower in understanding complex human problems, like clinical workflows and healthcare accessibility, and translating them into robust, user-friendly technical solutions. 
 
 ### 💡 What I'm currently up to:
 - 🔭 **Building:** Predictive machine learning models and state-managed React applications.
