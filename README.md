@@ -1,4 +1,5 @@
 # 👋 Hello, I'm Phaphamani 
+![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-success?style=for-the-badge)
 
 ### Bridging the gap between frontline healthcare and backend data architecture. 🚀
 
